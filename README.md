@@ -5,10 +5,15 @@ I used conda for this project to manage packages properly.
 Packages/versions used:
 
 python3.7
+
 pandas 1.3.4 
+
 numpy 1.21.2
+
 sqlite3 3.36.0
+
 seaborn 0.11.2
+
 matplotlib 3.5.0
 
 To create a database, first run:
